@@ -11,3 +11,6 @@ Installation:
 - Dra in esx_menu_default mappen till resources/[esx] och byt ut den mot din nuvarande.
 
 - Starta om servern, och menyn bör dyka upp på knapptrycket F2, F3.
+
+
+**FXServer ESX Menu Default**
